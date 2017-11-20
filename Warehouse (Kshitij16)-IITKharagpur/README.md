@@ -19,7 +19,7 @@ Arduino <br>
 
 Designs & Prototypes:
 ---------------------
-![Warehouse](https://github.com/Sarvesh18/Robotics/blob/master/Warehouse%20(Kshitij16)-IITKharagpur/Warehouse.png)
+![Warehouse](https://github.com/Sarvesh18/Robotics/blob/master/Warehouse%20(Kshitij16)-IITKharagpur/Warehouse.jpg)
 
 
 CONTACT ME @ 

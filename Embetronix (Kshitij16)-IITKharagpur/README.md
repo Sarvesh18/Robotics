@@ -5,7 +5,7 @@ Problem Statement:
 
 Project Link:
 -------------
-[YouTube] (https://www.youtube.com/watch?v=vMwGhtjUtv8)
+[YouTube](https://www.youtube.com/watch?v=vMwGhtjUtv8)
 
 
 Codes & Resources:
@@ -19,7 +19,7 @@ Arduino <br>
 
 Designs & Prototypes:
 ---------------------
-![Embetronix](https://github.com/Sarvesh18/Robotics/blob/master/Embetronix%20(Kshitij16)-IITKharagpur/Embetronix_.png)
+![Embetronix](https://github.com/Sarvesh18/Robotics/blob/master/Embetronix%20(Kshitij16)-IITKharagpur/Embetronix.png)
 
 
 CONTACT ME @ 
