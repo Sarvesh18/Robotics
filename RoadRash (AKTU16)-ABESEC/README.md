@@ -22,7 +22,7 @@ Designs & Prototypes:
 ![RoadRash](https://github.com/Sarvesh18/Robotics/blob/master/RoadRash%20(AKTU16)-ABESEC/RoadRash.png)
 
 
-CONTACT ME @ 
+Get IN Touch 
 ------------
 >Web : https://sarvesh18.github.com/ <br>
 >Email : sarvesh.singh18@hotmail.com <br/>

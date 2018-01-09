@@ -22,7 +22,7 @@ Designs & Prototypes:
 ![Embetronix](https://github.com/Sarvesh18/Robotics/blob/master/Embetronix%20(Kshitij16)-IITKharagpur/Embetronix.png)
 
 
-CONTACT ME @ 
+Get IN Touch 
 ------------
 >Web : https://sarvesh18.github.com/ <br>
 >Email : sarvesh.singh18@hotmail.com <br/>

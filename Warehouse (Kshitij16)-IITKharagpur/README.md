@@ -22,7 +22,7 @@ Designs & Prototypes:
 ![Warehouse](https://github.com/Sarvesh18/Robotics/blob/master/Warehouse%20(Kshitij16)-IITKharagpur/Warehouse.jpg)
 
 
-CONTACT ME @ 
+Get IN Touch 
 ------------
 >Web : https://sarvesh18.github.com/ <br>
 >Email : sarvesh.singh18@hotmail.com <br/>
